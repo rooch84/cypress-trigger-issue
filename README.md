@@ -2,7 +2,7 @@
 
 Run this is one terminal...
 
-'npm run start`
+`npm run start`
 
 And this in another...
 
