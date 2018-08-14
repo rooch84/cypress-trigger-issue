@@ -2,10 +2,11 @@
 
 Run this is one terminal...
 
--`npm install`
-
--`npm run start`
+```
+npm install
+npm run start
+```
 
 And this in another...
 
--`npm run cypress`
+`npm run cypress`
