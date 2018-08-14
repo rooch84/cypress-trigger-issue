@@ -2,6 +2,7 @@
 
 Run this is one terminal...
 
+`npm install`
 `npm run start`
 
 And this in another...
