@@ -9,4 +9,6 @@ npm run start
 
 And this in another...
 
-`npm run cypress`
+```
+npm run cypress
+```
